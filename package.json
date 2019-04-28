@@ -1,0 +1,49 @@
+{
+	"name": "ra-shadow",
+	"displayName": "Ra Shadow",
+	"description": "Here is the best theme for your eye care!",
+	"version": "1.0.0",
+	"engines": {
+		"vscode": "^1.33.0"
+	},
+	"categories": [
+		"Themes"
+	],
+	"contributes": {
+		"themes": [
+			{
+				"label": "Ra Shadow",
+				"uiTheme": "vs-dark",
+				"path": "./themes/ra-shadow.json"
+			}
+		]
+	},
+	"publisher": "rahmanyerli",
+	"author": {
+		"name": "Rahman Yerli"
+	},
+	"license": "MIT",
+	"repository": {
+		"type": "GitHub",
+		"url": "https://github.com/rahmanyerli/ra-shadow"
+	},
+	"icon": "images/ra.png",
+	"galleryBanner": {
+		"color": "#181818",
+		"theme": "dark"
+	},
+	"keywords": [
+		"theme",
+		"vs theme",
+		"code theme",
+		"vscode theme",
+		"dark theme",
+		"vscode, dark theme",
+		"ra",
+		"ra shadow theme",
+		"ra shadow",
+		"rashadow",
+		"ra-shadow",
+		"ra shadow theme"
+	]
+}
