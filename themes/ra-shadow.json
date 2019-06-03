@@ -93,13 +93,13 @@
 				"constant.numeric"
 			],
 			"settings": {
-				"foreground": "#33BB88"
+				"foreground": "#33BB77"
 			}
 		},
 		{
 			"scope": "constant.regexp",
 			"settings": {
-				"foreground": "#33BB88"
+				"foreground": "#33BB77"
 			}
 		},
 		{
@@ -117,7 +117,7 @@
 		{
 			"scope": "entity.other.attribute-name",
 			"settings": {
-				"foreground": "#DD8855"
+				"foreground": "#DDBB55"
 			}
 		},
 		{
@@ -171,13 +171,13 @@
 		{
 			"scope": "markup.inserted",
 			"settings": {
-				"foreground": "#33BB88"
+				"foreground": "#33BB77"
 			}
 		},
 		{
 			"scope": "markup.deleted",
 			"settings": {
-				"foreground": "#33BB88"
+				"foreground": "#33BB77"
 			}
 		},
 		{
@@ -201,7 +201,7 @@
 		{
 			"scope": "markup.inline.raw",
 			"settings": {
-				"foreground": "#33BB88"
+				"foreground": "#33BB77"
 			}
 		},
 		{
@@ -226,19 +226,19 @@
 		{
 			"scope": "meta.preprocessor.string",
 			"settings": {
-				"foreground": "#33BB88"
+				"foreground": "#33BB77"
 			}
 		},
 		{
 			"scope": "meta.preprocessor.numeric",
 			"settings": {
-				"foreground": "#33BB88"
+				"foreground": "#33BB77"
 			}
 		},
 		{
 			"scope": "meta.structure.dictionary.key.python",
 			"settings": {
-				"foreground": "#DD8855"
+				"foreground": "#DDBB55"
 			}
 		},
 		{
@@ -268,25 +268,25 @@
 		{
 			"scope": "string",
 			"settings": {
-				"foreground": "#33BB88"
+				"foreground": "#33BB77"
 			}
 		},
 		{
 			"scope": "string.tag",
 			"settings": {
-				"foreground": "#33BB88"
+				"foreground": "#33BB77"
 			}
 		},
 		{
 			"scope": "string.value",
 			"settings": {
-				"foreground": "#33BB88"
+				"foreground": "#33BB77"
 			}
 		},
 		{
 			"scope": "string.regexp",
 			"settings": {
-				"foreground": "#33BB88"
+				"foreground": "#33BB77"
 			}
 		},
 		{
@@ -319,7 +319,7 @@
 				"source.coffee.embedded"
 			],
 			"settings": {
-				"foreground": "#DD8855"
+				"foreground": "#DDBB55"
 			}
 		},
 		{
@@ -356,7 +356,7 @@
 		{
 			"scope": "keyword.other.unit",
 			"settings": {
-				"foreground": "#33BB88"
+				"foreground": "#33BB77"
 			}
 		},
 		{
@@ -371,13 +371,13 @@
 		{
 			"scope": "support.function.git-rebase",
 			"settings": {
-				"foreground": "#DD8855"
+				"foreground": "#DDBB55"
 			}
 		},
 		{
 			"scope": "constant.sha.git-rebase",
 			"settings": {
-				"foreground": "#33BB88"
+				"foreground": "#33BB77"
 			}
 		},
 		{
@@ -406,7 +406,7 @@
 				"support.constant.handlebars"
 			],
 			"settings": {
-				"foreground": "#DD8855"
+				"foreground": "#DDBB55"
 			}
 		},
 		{
@@ -444,7 +444,7 @@
 				"storage.type.primitive.groovy"
 			],
 			"settings": {
-				"foreground": "#DDBB66"
+				"foreground": "#DD8855"
 			}
 		},
 		{
@@ -458,7 +458,7 @@
 				"entity.other.inherited-class"
 			],
 			"settings": {
-				"foreground": "#DDBB66"
+				"foreground": "#DD8855"
 			}
 		},
 		{
@@ -477,7 +477,7 @@
 				"entity.name.variable"
 			],
 			"settings": {
-				"foreground": "#DD8855"
+				"foreground": "#DDBB55"
 			}
 		},
 		{
@@ -486,7 +486,7 @@
 				"meta.object-literal.key"
 			],
 			"settings": {
-				"foreground": "#DD8855"
+				"foreground": "#DDBB55"
 			}
 		},
 		{
@@ -501,7 +501,7 @@
 				"support.constant.color"
 			],
 			"settings": {
-				"foreground": "#33BB88"
+				"foreground": "#33BB77"
 			}
 		},
 		{
@@ -516,7 +516,7 @@
 				"support.other.parenthesis.regexp"
 			],
 			"settings": {
-				"foreground": "#33BB88"
+				"foreground": "#33BB77"
 			}
 		},
 		{
@@ -527,7 +527,7 @@
 				"constant.character.set.regexp"
 			],
 			"settings": {
-				"foreground": "#33BB88"
+				"foreground": "#33BB77"
 			}
 		},
 		{
@@ -536,13 +536,13 @@
 				"keyword.control.anchor.regexp"
 			],
 			"settings": {
-				"foreground": "#33BB88"
+				"foreground": "#33BB77"
 			}
 		},
 		{
 			"scope": "keyword.operator.quantifier.regexp",
 			"settings": {
-				"foreground": "#33BB88"
+				"foreground": "#33BB77"
 			}
 		},
 		{
@@ -554,7 +554,7 @@
 		{
 			"scope": "constant.character.escape",
 			"settings": {
-				"foreground": "#33BB88"
+				"foreground": "#33BB77"
 			}
 		},
 		{
